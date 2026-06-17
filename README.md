@@ -26,7 +26,23 @@ Python & SQL Utilities for Data Cleaning and Automation
 Code
 growth-data-analytics-toolkit/
 │
+├── sql/
+│   ├── cohort_analysis.sql
+│   ├── churn_modeling.sql
+│   └── retention_curves.sql
+│
+├── python/
+│   ├── reconciliation_script_example.py
+│   ├── data_cleaning_utils.py
+│   └── feature_engineering_templates.py
+│
+├── dashboards/
+│   ├── retention_dashboard_structure.md
+│   ├── financial_discrepancy_dashboard.md
+│   └── operational_monitoring_framework.md
+│
 └── README.md
+
 📌 Purpose of This Repository
 This repository is not intended to host production code from my workplace.
 Instead, it demonstrates the type of analytical systems, scripts, and frameworks I build in my role as a Growth Data Analyst.

@@ -23,8 +23,8 @@ Dashboard Design (Power BI, Tableau, Metabase)
 Python & SQL Utilities for Data Cleaning and Automation
 
 📁 Repository Structure
-Code
-growth-data-analytics-toolkit/
+
+\\\growth-data-analytics-toolkit/
 │
 ├── sql/
 │   ├── cohort_analysis.sql
@@ -41,7 +41,7 @@ growth-data-analytics-toolkit/
 │   ├── financial_discrepancy_dashboard.md
 │   └── operational_monitoring_framework.md
 │
-└── README.md
+└── README.md\\\
 
 📌 Purpose of This Repository
 This repository is not intended to host production code from my workplace.

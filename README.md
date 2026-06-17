@@ -24,7 +24,7 @@ Python & SQL Utilities for Data Cleaning and Automation
 
 📁 Repository Structure
 
-\\
+\\\
 growth-data-analytics-toolkit/
 │
 ├── sql/
@@ -43,7 +43,7 @@ growth-data-analytics-toolkit/
 │   └── operational_monitoring_framework.md
 │
 └── README.md
-\\
+\\\
 
 📌 Purpose of This Repository
 This repository is not intended to host production code from my workplace.
